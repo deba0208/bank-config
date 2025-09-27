@@ -1,5 +1,5 @@
 build:
-  version: "1.0.0"
+  version: "1.0.0.0"
 
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
@@ -9,6 +9,7 @@ accounts:
   onCallSupport:
     - (453) 392-4829
     - (453) 392-4829
+
 
 
 
