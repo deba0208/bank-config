@@ -1,5 +1,5 @@
 build:
-  version: "4.0"
+  version: "4.0.0"
 
 loans:
   message: "Welcome to EazyBank loans related local APIs "
@@ -9,6 +9,7 @@ loans:
   onCallSupport:
     - (452) 456-2176
     - (452) 456-2176
+
 
 
 
